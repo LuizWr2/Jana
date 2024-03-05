@@ -11,7 +11,7 @@
 
 **Status:** Pendente
 
-### **Aplicativo Associado: Boletos**
+#### **Aplicativo Associado: Boletos**
 
 ### **As parcelas geradas na venda não conferem com o que está sendo exibido no financeiro.**
 **Resposta:**
